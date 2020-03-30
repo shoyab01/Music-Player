@@ -6,7 +6,7 @@ An Android application that reads Songs/Music(.mp3 &amp; .wav) from Phone Memory
 - Dark Theme Style with wallpaper as background
 - Plays mp3 and wav files
 - List view of songs from phone memory
-- Seekbar that adds a draggable thumb to set the value for current progress
+- Seekbar that adds a draggable thumb to set the value for current progress of song
 - Marquee text for song name
 
 # APK
