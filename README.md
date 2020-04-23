@@ -9,11 +9,6 @@ An Android application that reads Songs/Music(.mp3 &amp; .wav) from Phone Memory
 - Seekbar that adds a draggable thumb to set the value for current progress of song
 - Marquee text for song name
 
-# APK
-
-Download apk file here [Music-Player-APK](https://drive.google.com/open?id=1RGHUR84hmKQcNF8cbej77KLhVfJwgPEc)
-
-    https://drive.google.com/open?id=1RGHUR84hmKQcNF8cbej77KLhVfJwgPEc
     
 # Screenshots
 
